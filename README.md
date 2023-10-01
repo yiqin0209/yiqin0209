@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Ang Yi Qin!
 
+I'm a data engineering enthusiast currently navigating the data streams at **Universiti Teknologi Malaysia (UTM)**. 🚀
+
+## 📚 About Me
+Birth Date: 9th February 2002
 <!--
 **yiqin0209/yiqin0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
