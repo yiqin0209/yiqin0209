@@ -4,9 +4,9 @@ I'm a data engineering enthusiast navigating the data streams at **Universiti Te
 
 ## 📚 About Me
 - 💬 Birth Date: 9th February 2002
-- 🌱 I’m currently a third-year student in Bachelor of Computer Science (Data Engineering), UTM.
+- 🌱 Third-year student in Bachelor of Computer Science **(Data Engineering)**, UTM.
 - 📫 How to reach me: https://www.linkedin.com/in/ang-yi-qin-696396225/
-- Email: angqin@graduate.utm.my
+- 🤝 Email: angqin@graduate.utm.my
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yiqin0209&label=Profile%20views&color=0e75b6&style=flat" alt="yiqin0209" /> </p>
 <br> </br>
